@@ -1,4 +1,4 @@
 # tsp
 genetic algorithm to solve classical TSP
 
-![Alt Text](/Users/ivylin/Desktop/Github Projects/tsp/animation.gif)
+![Animation of Optimum Solutions Through the Generations](https://github.com/ivesuo/tsp/blob/main/animation.gif)
